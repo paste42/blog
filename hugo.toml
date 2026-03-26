@@ -1,7 +1,7 @@
 baseURL = 'https://amalgam.es/blog/'
 languageCode = 'en-us'
 title = 'big ol blog'
-theme = 'loveit'
+theme = 'LoveIt'
 [caches]
 	[caches.images]
 		dir = ':cacheDir/images'
