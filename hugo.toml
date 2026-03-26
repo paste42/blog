@@ -2,15 +2,36 @@ baseURL = 'https://blog.amalgam.es/'
 languageCode = 'en-us'
 languageName = "English"
 title = "paste blog"
-description = 'game reviews, etc, for you and others'
 theme = 'LoveIt'
+[params]
+  title = "paste blog"
+  description = "game reviews, etc, for you and others"
+
+[params.author]
+  name = "paste"
+  
+[params.header]
+  [params.header.title]
+    name = "paste blog"
+	typeit = true
+	
+[params.home]
+  rss = 10
+  [params.home.profile]
+    enable = true
+	title = ""
+	subtitle = "game reviews, etc, for you and others"
+	typeit = false
+  
 [caches]
 	[caches.images]
 		dir = ':cacheDir/images'
+
 [pagination]
   disableAliases = false
   pagerSize = 10
   path = "page"
+
 [params.app]
   title = "paste blog"
 
