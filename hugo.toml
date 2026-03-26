@@ -1,4 +1,4 @@
-baseURL = 'https://amalgam.es/blog/'
+baseURL = 'https://blog.amalgam.es/'
 languageCode = 'en-us'
 languageName = "English"
 title = "paste blog"
