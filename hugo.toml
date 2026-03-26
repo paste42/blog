@@ -1,7 +1,16 @@
 baseURL = 'https://amalgam.es/blog/'
 languageCode = 'en-us'
-title = 'big ol blog'
+languageName = "English"
+title = "paste blog"
+description = 'game reviews, etc, for you and others'
 theme = 'LoveIt'
 [caches]
 	[caches.images]
 		dir = ':cacheDir/images'
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = "page"
+[params.app]
+  title = "paste blog"
+
