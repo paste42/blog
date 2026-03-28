@@ -2,6 +2,7 @@
 date = '2025-04-10T13:57:56-04:00'
 draft = false
 title = 'Dungeon and Puzzles review (Nekolyst, PC, 2021)'
+toc = false
 +++
 
 # What it says on the tin
