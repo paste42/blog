@@ -6,7 +6,7 @@ title = 'Dungeon and Puzzles review (Nekolyst, PC, 2021)'
 
 # What it says on the tin
 
-![banner](dungeon%20and%20puzzles%20banner.jpg)
+![banner](/dungeon%20and%20puzzles%20banner.jpg)
 
 It took me around 80 of the game's 150 total puzzles to consciously put the label "sokoban" on Dungeon and Puzzles. From Chinese developer Nekolyst, consisting of only one person (although with some assets from elsewhere), D&P is a prosaically-named top-down tile-based puzzle game where you kill monsters so you can open the door so you can get to the next level(s). Monsters are slaughtered using gear that needs to be collected in each self-contained level, namely a sword, a bow and arrow, a shield (for bashing enemies onto spike traps) and/or a gauntlet (for yanking enemies onto spike traps)
 
