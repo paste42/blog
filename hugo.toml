@@ -7,6 +7,9 @@ theme = 'LoveIt'
   title = "paste blog"
   description = "game reviews, etc, for you and others"
 
+[params.section]
+  rss = 10
+  
 [params.author]
   name = "paste"
   
@@ -35,3 +38,5 @@ theme = 'LoveIt'
 [params.app]
   title = "paste blog"
 
+[params.social]
+  RSS = true
