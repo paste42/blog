@@ -40,3 +40,9 @@ theme = 'LoveIt'
 
 [params.social]
   RSS = true
+
+[params.analytics]
+  enable = true
+  [params.analytics.google]
+    id = 'G-Y620VMXYM9'
+	respectDoNotTrack = false
