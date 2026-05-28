@@ -1,12 +1,12 @@
 +++
-date = '2026-05-05T12:00:00-00:00'
+date = '2026-05-28T12:00:00-00:00'
 draft = false
 title = 'Shanghai review (Activision, PC Engine, 1987)'
 toc = false
 images = ["/Shanghai.png"]
 +++
 
-# 
+# Tile away the hours
 
 ![banner](/Shanghai.png)
 
